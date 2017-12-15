@@ -1,17 +1,15 @@
     ***************************************************************************************
-    * Abstract:   Network ping-pong with support for Windows/Linux/MacOS
-    * Uses:       This library has been compiled with C11.
+    * Abstract:   Registration and management system for university courses
+    * Uses:       This software has been created using Delphi XE2, MSSQL and FastReports.
     * Author:     Michael Vasquez Otazu
     * Email:      mitxael@hotmail.it
     * History:    V1.0 - First release
     * Description:
-    *             - Ping pong game for multiple players across a network
-    *             - Support for Windows, Linux and MacOS
-    *             - Client/Server architecture
-    *             - Educational use of Sockets, Json messages, Regex, etc.
+    *             - Register courses for academic semesters
+    *             - Generate reports
     ********************************* START LICENSE BLOCK *********************************
     * The MIT License (MIT)
-    * Copyright (C) 2016 Michael Vasquez Otazu
+    * Copyright (C) 2006 Michael Vasquez Otazu
     *
     * Permission is hereby granted, free of charge, to any person obtaining a copy of this 
     * software and associated documentation files (the "Software"), to deal in the Software 
