@@ -1,3 +1,6 @@
+<p align="left">
+<img width="70%" height="70%" src="https://github.com/mitxael/university-manager/blob/master/resources/fondo_principal.jpg">
+</p>    
     ***************************************************************************************
     * Abstract:   Registration and management system for university courses
     * Uses:       This software has been created using Delphi XE2, MSSQL and FastReports.
